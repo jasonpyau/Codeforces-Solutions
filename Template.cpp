@@ -1,15 +1,8 @@
 // 
 
-#include <iostream>
-#include <vector>
-#include <array>
-#include <algorithm>
-#include <string>
 #include <bits/stdc++.h>
-#include <cstdint>
-#include <map>
-#include <unordered_map>
 #define ll long long
+#define u32 uint32_t
 #define u64 uint64_t
 #define i64 int64_t
 using namespace std;
