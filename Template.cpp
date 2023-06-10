@@ -16,7 +16,8 @@ int main() {
     cin.tie(NULL);
     int nC = 1;
     cin >> nC;
-    while (nC--) {
+    for (int i = 1; i <= nC; i++) {
+        // cout << "\nTEST #" << i << ":\n";
         solveCase();
     }
     return 0;
