@@ -1,10 +1,7 @@
 // 
 
 #include <bits/stdc++.h>
-#define ll long long
-#define u32 uint32_t
-#define u64 uint64_t
-#define i64 int64_t
+typedef long long ll;
 using namespace std;
 
 void solveCase() {
